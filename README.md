@@ -1,2 +1,6 @@
-# restaurante
-Simple example of Java swing of use - [lab prog 2 senac 2015/2]
+# Restaurante
+Simple sample of Java swing use.
+
+This is a exercise to "Laboratório de programação 2 - Senac-RS 2015-2"
+
+
